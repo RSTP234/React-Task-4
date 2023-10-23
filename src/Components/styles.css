@@ -1,0 +1,13 @@
+body{
+    background-color: black;
+    color: white;
+}
+
+table{
+    border: 1px solid white;
+    width: 99%;
+}
+
+th{
+    border-bottom: 1px solid white
+}
